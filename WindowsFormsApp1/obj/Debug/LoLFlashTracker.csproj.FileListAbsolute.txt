@@ -1,0 +1,10 @@
+C:\Users\Jonathon\source\repos\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\LoLFlashTracker.csprojResolveAssemblyReference.cache
+C:\Users\Jonathon\source\repos\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Jonathon\source\repos\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\LoLFlashTracker.csproj.GenerateResource.cache
+C:\Users\Jonathon\source\repos\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\LoLFlashTracker.csproj.CoreCompileInputs.cache
+C:\Users\Jonathon\source\repos\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Jonathon\source\repos\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Jonathon\source\repos\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Jonathon\source\repos\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Jonathon\source\repos\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Jonathon\source\repos\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
